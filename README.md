@@ -1,4 +1,4 @@
-##PreNUTS
+## PreNUTS
 
 Prerequisite Network for Universities (and TooPr System)
 
